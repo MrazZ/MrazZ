@@ -10,4 +10,4 @@
 - 😋 Fun fact: I haven't worked for two years，It's crazy，
 
 
-！[](https://github-readme-stats.vercel.app/api?username=MarzZ)
+![](https://github-readme-stats.vercel.app/api?username=MarzZ)
