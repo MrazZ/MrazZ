@@ -13,4 +13,9 @@
 这里加这句可以做数据统计，但是太惨淡就不加了
 ![](https://github-readme-stats.vercel.app/api?username=MarzZ)
 -->
-![](https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>)
+![](https://img.shields.io/endpoint?url=<http://at.alicdn.com/t/font_1462780150_442243.css>&style<    .iconfont{
+    font-family:"iconfont" !important;
+    font-size:16px;font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;}>)
