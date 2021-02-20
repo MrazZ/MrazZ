@@ -13,4 +13,4 @@
 这里加这句可以做数据统计，但是太惨淡就不加了
 ![](https://github-readme-stats.vercel.app/api?username=MarzZ)
 -->
-![](https://forthebadge.com/images/badges/built-with-love.svg)
+![](https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>)
