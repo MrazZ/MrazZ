@@ -13,4 +13,4 @@
 这里加这句可以做数据统计，但是太惨淡就不加了
 ![](https://github-readme-stats.vercel.app/api?username=MarzZ)
 -->
-![](https://img.shields.io/static/label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
+![](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
