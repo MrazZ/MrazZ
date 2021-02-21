@@ -6,8 +6,10 @@
 - 🥺 Please don't ask me about Algorithm，
 - 😋 Fun fact: I haven't worked for two years，It's crazy，
 
-### 🥗 Here's a brief description of my technique ...
-- 
+### 🥗 Here's a brief overview of my technique ...
+- 熟悉 JavaScript 
+- 了解 React Vue TypeScript HTML5 CSS3
+- 使用过 Node Koa2 Express Sass Bootstrap Jest MySQL MongoDB 微信小程序
 
 <!--
 这里加这句可以做数据统计，但是太惨淡就不加了
