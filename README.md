@@ -1,13 +1,13 @@
-### What's up my friend ~ Welcome to my github ~
-
-
+### What's up my friend ~ Welcome to my github 🖼 ~
 
 - 🎨 I’m currently working on Front-end development，
-- 🦚 I’m currently learning Data Visualization，
+- 🧐 I’m currently learning Data Visualization，
 - 😳 I’m looking for help with D3.js，
-- 🥺 Don't ask me about Algorithm，
-- ⛳️ How to reach me: imarz@foxmail.com
+- 🥺 Please don't ask me about Algorithm，
 - 😋 Fun fact: I haven't worked for two years，It's crazy，
+
+#### Here's a brief description of my technique 🎏 ...
+- 
 
 <!--
 这里加这句可以做数据统计，但是太惨淡就不加了
