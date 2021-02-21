@@ -1,4 +1,4 @@
-### 🥗 What's up my friend ~ Welcome to my github ~
+### 🔭 What's up my friend ~ Welcome to my github ~
 
 - 🎨 I’m currently working on Front-end development，
 - 🧐 I’m currently learning Data Visualization，
@@ -6,7 +6,7 @@
 - 🥺 Please don't ask me about Algorithm，
 - 😋 Fun fact: I haven't worked for two years，It's crazy，
 
-### 🔭 Here's a brief description of my technique ...
+### 🥗 Here's a brief description of my technique ...
 - 
 
 <!--
