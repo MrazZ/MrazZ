@@ -6,7 +6,7 @@
 - 🥺 Please don't ask me about Algorithm，
 - 😋 Fun fact: I haven't worked for two years，It's crazy，
 
-### 🎏 Here's a brief description of my technique ...
+### 🔭 Here's a brief description of my technique ...
 - 
 
 <!--
