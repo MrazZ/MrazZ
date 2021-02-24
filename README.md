@@ -1,5 +1,6 @@
-[![yX9cge.png](https://s3.ax1x.com/2021/02/24/yX9cge.png)](https://imgtu.com/i/yX9cge) ### 🔭 What's up my friend ~ Welcome to my github ~
+[![yX9cge.png](https://s3.ax1x.com/2021/02/24/yX9cge.png)](https://imgtu.com/i/yX9cge) 
 
+### 🔭 What's up my friend ~ Welcome to my github ~
 
 - 🎨 I’m currently working on Front-end development.
 - 🧐 I’m currently learning Data Visualization.
@@ -35,8 +36,7 @@ Markdown   3 mins          ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![](https://github-readme-stats.vercel.app/api?username=MarzZ)
 -->
  
-<!--base64集合,写在这里好维护-->
-[tuna]:
+
  
  
 
