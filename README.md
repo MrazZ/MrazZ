@@ -1,4 +1,4 @@
-<img  src="https://s3.ax1x.com/2021/02/24/yX9cge.png" align='right'/>
+<img  src="https://s3.ax1x.com/2021/02/24/yX9cge.png" align='right' width=20% height=20% />
 
 ### 🔭 What's up my friend ~ Welcome to my github ~
 
