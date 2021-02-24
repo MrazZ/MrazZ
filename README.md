@@ -1,9 +1,5 @@
-[![yX9cge.png](https://s3.ax1x.com/2021/02/24/yX9cge.png)](https://imgtu.com/i/yX9cge)
-<a href="https://imgtu.com/i/yX9cge"><img src="https://s3.ax1x.com/2021/02/24/yX9cge.png" alt="yX9cge.png" border="0" /></a>
-<center class="half">
-    [![yX9cge.png](https://s3.ax1x.com/2021/02/24/yX9cge.png)](https://imgtu.com/i/yX9cge)
-</center>
-### 🔭 What's up my friend ~ Welcome to my github ~
+[![yX9cge.png](https://s3.ax1x.com/2021/02/24/yX9cge.png)](https://imgtu.com/i/yX9cge) ### 🔭 What's up my friend ~ Welcome to my github ~
+
 
 - 🎨 I’m currently working on Front-end development.
 - 🧐 I’m currently learning Data Visualization.
