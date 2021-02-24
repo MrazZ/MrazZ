@@ -1,6 +1,7 @@
 [![yX9cge.png](https://s3.ax1x.com/2021/02/24/yX9cge.png)](https://imgtu.com/i/yX9cge)
+<a href="https://imgtu.com/i/yX9cge"><img src="https://s3.ax1x.com/2021/02/24/yX9cge.png" alt="yX9cge.png" border="0" /></a>
 <center class="half">
-    <img src="https://imgtu.com/i/yX9cge" width="200"/>
+    [![yX9cge.png](https://s3.ax1x.com/2021/02/24/yX9cge.png)](https://imgtu.com/i/yX9cge)
 </center>
 ### 🔭 What's up my friend ~ Welcome to my github ~
 
