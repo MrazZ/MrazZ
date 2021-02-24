@@ -6,6 +6,12 @@
 - 🥺 Please don't ask me about Algorithm.
 
 <!--START_SECTION:waka-->
+```text
+Week: 16 February, 2021 - 23 February, 2021
+
+YAML       36 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀   90.15 % 
+Markdown   3 mins          ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.32 % 
+```
 <!--END_SECTION:waka-->
 
 ### 🎏 Here's a brief overview of my technique ...
