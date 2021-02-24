@@ -1,6 +1,5 @@
-[![yX9cge.png](https://s3.ax1x.com/2021/02/24/yX9cge.png)](https://imgtu.com/i/yX9cge) 
-
 <img  src="https://s3.ax1x.com/2021/02/24/yX9cge.png" align='right'/>
+
 ### 🔭 What's up my friend ~ Welcome to my github ~
 
 - 🎨 I’m currently working on Front-end development.
