@@ -6,7 +6,7 @@
 - 🧐 I’m currently learning Data Visualization.
 - 😳 I’m looking for help with D3.js.
 - 🥺 Please don't ask me about Algorithm.
-- 🐣 Please visit <a href="https://mrazz.github.io/" target=" _blank">My Blog</a> for more project information.
+- 🐣 Please visit [My Blog](https://mrazz.github.io/){:target="_blank"} for more project information.
 
 
 
