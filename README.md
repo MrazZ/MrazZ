@@ -2,11 +2,11 @@
 
 ### 🔭 What's up my friend ~ Welcome to my github ~
 
-- 🐪 I’m currently working on Front-end development.
+- 🦦 I’m currently working on Front-end development.
 - 🐂 I’m currently learning Data Visualization.
 - 🐄 I’m looking for help with D3.js.
 - 🐈 Please don't ask me about Algorithm.
-- 🐘 Please visit [My Blog](https://mrazz.github.io/) for more project information.
+- 🦢 Please visit [My Blog](https://mrazz.github.io/) for more project information.
 
 
 
