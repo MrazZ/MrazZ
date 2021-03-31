@@ -25,6 +25,8 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+<!--好气啊没有连续签到啊-->
+
 <!--
 这里加这句可以做数据统计，但是太惨淡就不加了
 ![](https://github-readme-stats.vercel.app/api?username=MarzZ)
