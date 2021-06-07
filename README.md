@@ -21,9 +21,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 May, 2021 - 05 June, 2021
-
-Vue.js   1 hr 3 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
