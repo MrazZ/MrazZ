@@ -21,9 +21,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 July, 2021 - 12 July, 2021
+Week: 06 July, 2021 - 13 July, 2021
 
-
+Vue.js       2 hrs 30 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
