@@ -21,7 +21,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 06 September, 2021 - 13 September, 2021
+
+Vue.js   2 hrs 48 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.61 % 
 ```
 <!--END_SECTION:waka-->
 
