@@ -21,10 +21,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 October, 2021 - 28 October, 2021
+Week: 22 October, 2021 - 29 October, 2021
 
-Vue.js   5 hrs 20 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.51 % 
-SCSS     1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.49 % 
+Vue.js   1 hr 21 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦   98.91 % 
 ```
 <!--END_SECTION:waka-->
 
